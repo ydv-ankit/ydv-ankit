@@ -4,4 +4,6 @@
 - CSS
 - Python
 - JAVA
+- NodeJs
+- MongoDB
 ### [Twitter](https://www.twitter.com/ydvtwts)
