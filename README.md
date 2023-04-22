@@ -52,10 +52,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ydv-ankit" height="30" width="40" /></a><a href="https://instagram.com/ankitydv1121" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitydv1121" height="30" width="40" /></a>
 </p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydv-ankit&show_icons=true&hide_progress=true&locale=en&layout=compact&theme=radical&bg_color=00000000" alt="ydv-ankit" /></p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ydv-ankit&show_icons=true&hide=stars&locale=en&theme=radical&bg_color=00000000" alt="ydv-ankit" /></p>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=ydv-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="ydv-ankit" /> </p>
