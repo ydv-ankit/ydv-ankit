@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
-<h3 align="center">A quick & passionate learner about different technologies </h3>
-
+<h2 align="center">Hi 👋, I'm Ankit Yadav</h2>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
