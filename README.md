@@ -46,4 +46,3 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankityadav1121)
 [![Twitter](https://img.shields.io/badge/twitter-%2300ac.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ydvtwts)
 
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=ydv-ankit&theme=dark&hide_border=true)<br/>
