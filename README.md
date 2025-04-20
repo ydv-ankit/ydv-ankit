@@ -9,7 +9,7 @@
 ![Golang](https://img.shields.io/badge/golang-%23ffffff.svg?style=for-the-badge&logo=go&logoColor=blue)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### => Libraries/Frameworks
+#### Libraries/Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react%20js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next%20Js-black?style=for-the-badge&logo=next.js&logoColor=white)
