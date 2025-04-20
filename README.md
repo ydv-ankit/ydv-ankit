@@ -55,3 +55,6 @@
 [![Twitter](https://img.shields.io/badge/twitter-%2300ac.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/ydvtwts)
 [![Leetcode](https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=lightgreen)](https://leetcode.com/u/erudite01)
 
+---
+
+## Checkout my [Resume](https://resume.ankitydv.in)
