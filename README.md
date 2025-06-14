@@ -25,10 +25,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2313055E.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![PineconeDB](https://img.shields.io/badge/pinecone_db-%2313055E.svg?style=for-the-badge&logo=vectorlogozone&logoColor=blue)
 
-## UI/UX
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ## Deployment / DevOps
 ![AWS](https://img.shields.io/badge/AWS-%22326ce5.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,6 +33,10 @@
 ![CICD](https://img.shields.io/badge/CI/CD-%230db7ed.svg?style=for-the-badge&logo=devbox&logoColor=white)<br/>
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## UI/UX
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Monitoring Tools
 ![Grafana](https://img.shields.io/badge/grafana-%23ff6610.svg?style=for-the-badge&logo=grafana&logoColor=white)
